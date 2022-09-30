@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- [DeviantArt](https://deviantart.com/hydroper/gallery)
+- [My DeviantArt profile](https://deviantart.com/hydroper/gallery)
 
 <!--
 **matheusdiasdesouzads/matheusdiasdesouzads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
