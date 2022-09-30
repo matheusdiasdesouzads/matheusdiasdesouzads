@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- [My DeviantArt profile](https://deviantart.com/hydroper/gallery)
+- [Find my DeviantArt profile](https://deviantart.com/hydroper/gallery)
+- Currently learning Blender
 
 <!--
 **matheusdiasdesouzads/matheusdiasdesouzads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
