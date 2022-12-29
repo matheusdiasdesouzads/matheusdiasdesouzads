@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- [Find my DeviantArt profile](https://deviantart.com/hydroper/gallery)
+- [Look at my DeviantArt arts](https://deviantart.com/hydroper/gallery)
 - [Contact me at Twitter](https://twitter.com/matheusds365)
 
 <!--
