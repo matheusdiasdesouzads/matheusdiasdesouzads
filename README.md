@@ -4,6 +4,12 @@
 - [Contact me at Twitter](https://twitter.com/matheusds365)
 - [VioletScript](https://violetscript.github.io/docs)
 
+#### Other Projects I've Worked On
+
+Some projects were lost, but you can currently see:
+
+- [Phantasy Star III UI](https://klaider.github.io/preview/ps3@0.1.1)
+
 <!--
 **matheusdiasdesouzads/matheusdiasdesouzads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
