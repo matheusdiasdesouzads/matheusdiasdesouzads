@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - [Look at my DeviantArt arts](https://deviantart.com/hydroper/gallery)
-- [VioletScript](https://violetscript.github.io/docs)
+- [VioletScript](https://violetscript.github.io/docs), an EcmaScript dialect by me
 - [Contact me at Twitter](https://twitter.com/matheusds365)
 
 #### Other Projects I've Worked On
