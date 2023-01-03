@@ -9,6 +9,7 @@
 Some projects were lost, but you can currently see:
 
 - [Phantasy Star III UI](https://klaider.github.io/preview/ps3@0.1.1)
+  - use arrow keys, keys (Z, X), keys (J, K) and equivalent touch controls for navigation.
 
 <!--
 **matheusdiasdesouzads/matheusdiasdesouzads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
